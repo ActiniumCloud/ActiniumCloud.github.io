@@ -1,3 +1,8 @@
 site_name: ActiniumCloud Docs
 theme:
   name: material
+  features:
+    - navigation.sections
+copyright: Copyright &copy; 2020-2022 ActiniumCloud
+extra:
+  generator: false
