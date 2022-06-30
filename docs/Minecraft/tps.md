@@ -1,4 +1,4 @@
-# How to check tps
+# How to check for tps?
 
 ## Spigot, Paper and forks
 

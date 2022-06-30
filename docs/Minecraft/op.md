@@ -1,4 +1,4 @@
-# How to give players op
+# How to give players op?
 
 In the input box at the bottom of the console, type
 ```
