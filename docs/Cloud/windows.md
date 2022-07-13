@@ -1,5 +1,10 @@
 # Installing Windows Server 2016 on a VPS instance
 
+|  Tutorial details |           |
+|:-----------------:|:---------:|
+| Est. reading time | 5 minutes |
+| Difficulty level  | Easy      |
+
 ## Step 1 - Mount Windows Server 2016 iso
 
 Log into the control panel and click "ISO Images"

@@ -1,5 +1,10 @@
 # How to give players op?
 
+|  Tutorial details |           |
+|:-----------------:|:---------:|
+| Est. reading time | 1 minute |
+| Difficulty level  | Easy      |
+
 In the input box at the bottom of the console, type
 ```
 op playername
